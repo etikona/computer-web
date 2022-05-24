@@ -1,0 +1,65 @@
+[
+    {
+      "_id": "628c89e56488c312239748b2",
+      "quantity": 5,
+      "price": "$1,417.84",
+      "img": "https://cdn.pixabay.com/photo/2015/09/04/00/36/circuits-921458_1280.jpg",
+      "availableQuantity": 28,
+      "name": "Ram",
+      "description": "Officia anim pariatur proident sint do reprehenderit ad commodo proident. Do et et officia commodo ad exercitation do dolore labore. Eiusmod magna sint non Lorem irure exercitation labore sunt nisi laboris pariatur. Commodo veniam voluptate cupidatat pariatur veniam velit do aute dolore nostrud id sunt. Id adipisicing qui aliqua consectetur quis. Sit aliqua officia ipsum et sint aliqua in reprehenderit ad nostrud.\r\n"
+    },
+    {
+      "_id": "628c89e5eab2204a69aa47c0",
+      "quantity":5 ,
+      "price": "$3,700.57",
+      "img": "https://cdn.pixabay.com/photo/2020/03/20/22/29/amd-4952189_1280.jpg",
+      "availableQuantity": 24,
+      "name": "Processor",
+      "description": "Elit culpa velit et veniam. Qui veniam nisi excepteur reprehenderit ad tempor dolor ex non dolore occaecat mollit proident qui. Consequat quis excepteur culpa est mollit amet irure ea. Esse exercitation proident dolor anim laborum ullamco consequat incididunt deserunt occaecat incididunt nisi amet. Lorem aliquip minim aute do. Dolore velit veniam et id sint deserunt laborum aliqua duis. Culpa duis officia exercitation nulla aliqua reprehenderit anim ipsum do sunt ullamco.\r\n"
+    },
+    {
+      "_id": "628c89e5c8d561a4494731bf",
+      "quantity": 5,
+      "price": "$3,523.91",
+      "img": "https://cdn.pixabay.com/photo/2017/04/04/17/22/motherboard-2202269_1280.jpg",
+      "availableQuantity": 35,
+      "name": "Motherboard",
+      "description": "Veniam consectetur aliqua ex tempor magna enim amet in incididunt. Sint reprehenderit proident eu nostrud incididunt consequat reprehenderit aute proident deserunt esse veniam eiusmod anim. Labore consequat adipisicing ad ex exercitation aliqua cupidatat do amet cupidatat eiusmod culpa proident. Adipisicing mollit nostrud aute eiusmod tempor voluptate consectetur enim do deserunt ut magna irure nostrud.\r\n"
+    },
+    {
+      "_id": "628c89e5023052cd50cf2eb8",
+      "quantity": 5,
+      "price": "$2,671.20",
+      "img": "https://cdn.pixabay.com/photo/2016/03/23/00/55/hdd-1273984_1280.jpg",
+      "availableQuantity": 25,
+      "name": "SSD",
+      "description": "Magna laborum velit eu adipisicing exercitation consequat nostrud officia ea sint minim. Magna voluptate voluptate nisi laborum ea esse Lorem. Aute veniam qui ut pariatur ullamco ea ullamco excepteur adipisicing sunt. Ipsum labore culpa est sint aliqua duis aute aute reprehenderit voluptate non. Mollit ullamco in dolor enim veniam mollit cillum. Cillum ullamco magna laborum aute non.\r\n"
+    },
+    {
+      "_id": "628c89e5ee29e1fbc71a38dd",
+      "quantity": 5,
+      "price": "$3,491.36",
+      "img": "https://cdn.pixabay.com/photo/2018/05/20/11/01/computer-3415505_1280.jpg",
+      "availableQuantity": 35,
+      "name": "Power Supply",
+      "description": "Tempor nostrud qui pariatur fugiat magna aliquip laboris elit eiusmod culpa voluptate. Minim ad qui tempor anim amet sint velit occaecat exercitation. Ad laboris mollit ex eiusmod eu excepteur cillum enim veniam sint. Elit aute est laboris elit in laboris est enim in adipisicing do non.\r\n"
+    },
+    {
+      "_id": "628c89e520aba840351e63e9",
+      "quantity": 5,
+      "price": "$2,025.37",
+      "img": "https://cdn.pixabay.com/photo/2020/06/06/01/21/nvidia-5264921_1280.jpg",
+      "availableQuantity": 28,
+      "name": "Graphics card",
+      "description": "Enim laboris aute deserunt id velit esse est eu. Aliquip eiusmod elit amet consectetur labore ex incididunt Lorem ipsum velit pariatur dolore. Commodo in cillum do ad laboris elit ipsum non amet reprehenderit Lorem ut. Occaecat eiusmod elit eiusmod aliqua est consectetur Lorem aute irure. Adipisicing esse voluptate labore occaecat Lorem. Mollit voluptate enim proident aliquip ut eu qui excepteur. Minim irure ipsum do eiusmod eiusmod.\r\n"
+    },
+    {
+      "_id": "628c89e55597e23659ada974",
+      "quantity": 5,
+      "price": "$1,315.61",
+      "img": "https://cdn.pixabay.com/photo/2016/05/05/11/22/computer-1373684_1280.jpg",
+      "availableQuantity": 38,
+      "name": "Monitor",
+      "description": "Commodo magna duis dolor nostrud duis. Qui Lorem sint ut veniam dolor exercitation occaecat anim dolore sunt anim voluptate. Veniam Lorem ullamco qui proident consequat in sit est cupidatat non. Reprehenderit velit reprehenderit esse deserunt nulla consectetur sint. Cupidatat dolore duis culpa ea ut laboris.\r\n"
+    }
+  ]

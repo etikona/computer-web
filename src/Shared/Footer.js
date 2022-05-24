@@ -12,7 +12,7 @@ const Footer = () => {
                 </div><font></font>
             </div> <font></font>
             <div><font></font>
-                <p>Copyright © 2022 - All right reserved by ACME Industries Ltd</p><font></font>
+                <p>Copyright © 2022 - All right reserved by Computer BD</p><font></font>
             </div><font></font>
         </footer>
     );
