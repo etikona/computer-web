@@ -8,7 +8,7 @@ const Contact = () => {
          <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 '>
              <div className='mb-5'>
                  <h4 className='text-xl text-primary'>Chat to us</h4>
-                 <p>Our friendly team is here to chat</p>
+                 <p>Our friendly team is here to help</p>
                  <p><small>abc@g.com</small></p>
              </div>
              <div className='mb-5'>

@@ -15,7 +15,7 @@ const Part = ({part}) => {
     <p>Fixed Quantity :{quantity}</p>
     <p>Available Qunatiy:{availableQuantity}</p>
     <h3>Price: {price}</h3>
-      <button className="btn btn-primary"><Link to="/purchace">Book Now</Link></button><font></font>
+      <button className="btn btn-primary ease-out duration-300"><Link to="/purchace">Book Now</Link></button><font></font>
     </div><font></font>
   </div><font></font>
 </div>
