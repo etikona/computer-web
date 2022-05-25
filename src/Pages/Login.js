@@ -43,7 +43,7 @@ const Login = () => {
     }
     // Password
     const  handlePassword  =  ( e )  =>  {
-        const  passwordRegax  = 0 ;
+        const  passwordRegax  = /^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{8,}$/ ;
         const validPassword = passwordRegax.test(e.target.value);
         if (validPassword) {
             setUserInfo({ ...userInfo, password: e.target.value })
