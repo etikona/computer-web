@@ -7,6 +7,7 @@ import Login from './Pages/Login';
 import MyPortfolio from './Pages/MyPortfolio';
 import Notfound from './Pages/Notfound';
 import Purchace from './Pages/Purchace';
+import RequiredAuth from './Pages/RequiredAuth';
 import Signin from './Pages/Signin';
 import Footer from './Shared/Footer';
 import Header from './Shared/Header';
@@ -21,7 +22,9 @@ function App() {
     <Route path="/signin" element={<Signin></Signin>}/>
     <Route path="/blogs" element={<Blogs></Blogs>}/>
     <Route path="/portfolio" element={<MyPortfolio></MyPortfolio>}/>
-    <Route path="/purchace" element={<Purchace></Purchace>}/>
+    <Route path="/purchace" element={<RequiredAuth>
+      <Purchace></Purchace>
+    </RequiredAuth>}/>
     <Route path="*" element={<Notfound></Notfound>}/>
 
     </Routes>
