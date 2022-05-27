@@ -29,7 +29,7 @@ const Login = () => {
 
 
     // Email
-    const  handleEmail  =  ( e )  =>  {
+    const handleEmail = (e) => {
         const emailRegax = /\S+@\S+\.\S+/;
         const validEmail = emailRegax.test(e.target.value);
         if (validEmail) {
@@ -42,8 +42,8 @@ const Login = () => {
         }
     }
     // Password
-    const  handlePassword  =  ( e )  =>  {
-        const  passwordRegax  = /^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{8,}$/ ;
+    const handlePassword = (e) => {
+        const passwordRegax = /^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{8,}$/;
         const validPassword = passwordRegax.test(e.target.value);
         if (validPassword) {
             setUserInfo({ ...userInfo, password: e.target.value })
@@ -56,7 +56,7 @@ const Login = () => {
 
     }
 
-    const  handleLogin  =  ( e )  =>  {
+    const handleLogin = (e) => {
         e.preventDefault();
         signInWithEmailAndPassword(userInfo.email, userInfo.password);
     }
